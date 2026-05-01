@@ -4,15 +4,6 @@
   </picture>
 </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitSubhash&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=dark&hide_title=true" alt="GitHub stats: commits, stars, contributions" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitSubhash&hide_border=true&theme=dark" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitSubhash&layout=compact&hide_border=true&theme=dark&hide_title=true&langs_count=8" alt="Top languages" />
-</p>
-
 <!--
 Amit Subhash is an incoming PhD student in Neuroengineering at Indiana
 University and a prolific open-source builder. He maintains 30+ public
